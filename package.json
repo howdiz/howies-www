@@ -1,5 +1,8 @@
 {
   "scripts": {
+    "layer0:dev": "layer0 dev",
+    "layer0:build": "layer0 build",
+    "layer0:deploy": "layer0 deploy",
     "xdn": "xdn",
     "xdn:start": "xdn run",
     "xdn:build": "xdn build",
@@ -18,6 +21,12 @@
     "sirv": "^1.0.0"
   },
   "devDependencies": {
+    "@layer0/cli": "^3.16.11",
+    "@layer0/core": "^3.16.11",
+    "@layer0/devtools": "^3.16.11",
+    "@layer0/prefetch": "^3.16.11",
+    "@layer0/sapper": "^3.16.11",
+    "@layer0/svelte": "^3.16.11",
     "@xdn/cli": "^2.18.0",
     "@xdn/core": "^2.18.0",
     "@xdn/prefetch": "^2.18.0",

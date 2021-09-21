@@ -65,8 +65,8 @@
 </figure>
 
 <p>
-	I’m the Director of Solutions Engineering at
-	<a href="https://www.moovweb.com/">Moovweb</a>.
+	I’m the Director of Solution Engineering at
+	<a href="https://www.layer0.co/">Layer0</a>.
 
 	I’ve been building stuff on the internet for over 15 years and building
 	and leading teams for about half of that time.
